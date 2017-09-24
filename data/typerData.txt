@@ -9,7 +9,7 @@ I spend my time discovering how things work and making things. I am passionate a
 
 <strong><ins>Technical Skills</ins></strong>: C++; Java; Swift; Python<!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><br\>
 
-Need more info? <a href="/data/Resume.pdf">Resume</a><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><br\>
+Need more info? <a href="/data/BaoNguyenResume.pdf">Resume</a><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><br\>
 
 Contact me at <a href="mailto:cong.quoc.bao.nguyen@vanderbilt.edu">cong.quoc.bao.nguyen@vanderbilt.edu</a>!<br/>
 
