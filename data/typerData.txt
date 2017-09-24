@@ -1,0 +1,17 @@
+<span id="a">baonguyen@ubuntu</span>:<span id="b">~</span><span id="c">$</span> ./run<br/><br/>
+<p style="font-size: 2em">Bao Nguyen</p><!-- laglaglaglaglaglaglaglaglaglaglaglag --><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
+
+Hi! I am a sophomore at Vanderbilt University, majoring in Computer Engineering</a><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><br\>
+
+I spend my time discovering how things work and making things. I am passionate about technology and want to contribute myself to this great technology age!</a><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><br\>
+
+<strong><ins>Hobbies</ins></strong>: I enjoy programming, doing experiments, math, iOS, playing soccer, travelling, and spending time with my family and friends<br\>
+
+<strong><ins>Technical Skills</ins></strong>: C++; Java; Swift; Python<!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><br\>
+
+Need more info? <a href="/data/Resume.pdf">Resume</a><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><br\>
+
+Contact me at <a href="mailto:cong.quoc.bao.nguyen@vanderbilt.edu">cong.quoc.bao.nguyen@vanderbilt.edu</a>!<br/>
+
+<!-- owlsqweoifjifjqwoefijwef -->
+<span id="a">baonguyen@ubuntu</span>:<span id="b">~</span><span id="c">$</span>
